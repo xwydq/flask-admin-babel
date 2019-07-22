@@ -1,0 +1,314 @@
+# Chinese translations for PROJECT.
+# Copyright (C) 2019 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2019-07-22 21:55+0800\n"
+"PO-Revision-Date: 2019-07-22 21:49+0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh\n"
+"Language-Team: zh <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.7.0\n"
+
+#: demo-babel.py:50
+msgid "hello world!!"
+msgstr "你好 世界"
+
+#: templates/analytics_index.html:3
+msgid "Here I'm going to display some data."
+msgstr "这里是将要展示的数据！！"
+
+#~ msgid "Cli: Invalid command."
+#~ msgstr ""
+
+#~ msgid "File required."
+#~ msgstr ""
+
+#~ msgid "Invalid file type."
+#~ msgstr ""
+
+#~ msgid "Invalid name"
+#~ msgstr ""
+
+#~ msgid "File \"%(name)s\" already exists."
+#~ msgstr ""
+
+#~ msgid "Permission denied."
+#~ msgstr ""
+
+#~ msgid "File uploading is disabled."
+#~ msgstr ""
+
+#~ msgid "Successfully saved file: %(name)s"
+#~ msgstr ""
+
+#~ msgid "Failed to save file: %(error)s"
+#~ msgstr ""
+
+#~ msgid "Upload File"
+#~ msgstr ""
+
+#~ msgid "Directory creation is disabled."
+#~ msgstr ""
+
+#~ msgid "Successfully created directory: %(directory)s"
+#~ msgstr ""
+
+#~ msgid "Failed to create directory: %(error)s"
+#~ msgstr ""
+
+#~ msgid "Create Directory"
+#~ msgstr ""
+
+#~ msgid "Deletion is disabled."
+#~ msgstr ""
+
+#~ msgid "Directory deletion is disabled."
+#~ msgstr ""
+
+#~ msgid "Directory \"%(path)s\" was successfully deleted."
+#~ msgstr ""
+
+#~ msgid "Failed to delete directory: %(error)s"
+#~ msgstr ""
+
+#~ msgid "File \"%(name)s\" was successfully deleted."
+#~ msgstr ""
+
+#~ msgid "Failed to delete file: %(name)s"
+#~ msgstr ""
+
+#~ msgid "Renaming is disabled."
+#~ msgstr ""
+
+#~ msgid "Path does not exist."
+#~ msgstr ""
+
+#~ msgid "Successfully renamed \"%(src)s\" to \"%(dst)s\""
+#~ msgstr ""
+
+#~ msgid "Failed to rename: %(error)s"
+#~ msgstr ""
+
+#~ msgid "Rename %(name)s"
+#~ msgstr ""
+
+#~ msgid "Error saving changes to %(name)s."
+#~ msgstr ""
+
+#~ msgid "Changes to %(name)s saved successfully."
+#~ msgstr ""
+
+#~ msgid "Error reading %(name)s."
+#~ msgstr ""
+
+#~ msgid "Unexpected error while reading from %(name)s"
+#~ msgstr ""
+
+#~ msgid "Cannot edit %(name)s."
+#~ msgstr ""
+
+#~ msgid "Editing %(path)s"
+#~ msgstr ""
+
+#~ msgid "File deletion is disabled."
+#~ msgstr ""
+
+#~ msgid "Cannot operate on non empty directories"
+#~ msgstr ""
+
+#~ msgid "Failed to get model. %(error)s"
+#~ msgstr ""
+
+#~ msgid "Failed to create record. %(error)s"
+#~ msgstr ""
+
+#~ msgid "Failed to update record. %(error)s"
+#~ msgstr ""
+
+#~ msgid "Failed to delete record. %(error)s"
+#~ msgstr ""
+
+#~ msgid "Record was successfully deleted."
+#~ msgid_plural "%(count)s records were successfully deleted."
+#~ msgstr[0] ""
+
+#~ msgid "Failed to delete records. %(error)s"
+#~ msgstr ""
+
+#~ msgid "Not a valid choice"
+#~ msgstr ""
+
+#~ msgid "Already exists."
+#~ msgstr ""
+
+#~ msgid "At least %(num)d item is required"
+#~ msgid_plural "At least %(num)d items are required"
+#~ msgstr[0] ""
+
+#~ msgid "Integrity error. %(message)s"
+#~ msgstr ""
+
+#~ msgid "Invalid time format"
+#~ msgstr ""
+
+#~ msgid "Invalid Choice: could not coerce"
+#~ msgstr ""
+
+#~ msgid "Invalid JSON"
+#~ msgstr ""
+
+#~ msgid "Invalid file extension"
+#~ msgstr ""
+
+#~ msgid "File \"%s\" already exists."
+#~ msgstr ""
+
+#~ msgid "There are no items in the table."
+#~ msgstr ""
+
+#~ msgid "Invalid Filter Value: %(value)s"
+#~ msgstr ""
+
+#~ msgid "Record was successfully created."
+#~ msgstr ""
+
+#~ msgid "Record does not exist."
+#~ msgstr ""
+
+#~ msgid "Record was successfully saved."
+#~ msgstr ""
+
+#~ msgid "Tablib dependency not installed."
+#~ msgstr ""
+
+#~ msgid "Export type \"%(type)s not supported."
+#~ msgstr ""
+
+#~ msgid "View Record"
+#~ msgstr ""
+
+#~ msgid "Edit Record"
+#~ msgstr ""
+
+#~ msgid "Delete Record"
+#~ msgstr ""
+
+#~ msgid "Please select model"
+#~ msgstr ""
+
+#~ msgid "No"
+#~ msgstr ""
+
+#~ msgid "Yes"
+#~ msgstr ""
+
+#~ msgid "Invalid field name '%s'."
+#~ msgstr ""
+
+#~ msgid "Field must be equal to %(other_name)s."
+#~ msgstr ""
+
+#~ msgid "Field must be at least %(min)d character long."
+#~ msgid_plural "Field must be at least %(min)d characters long."
+#~ msgstr[0] ""
+
+#~ msgid "Field cannot be longer than %(max)d character."
+#~ msgid_plural "Field cannot be longer than %(max)d characters."
+#~ msgstr[0] ""
+
+#~ msgid "Field must be between %(min)d and %(max)d characters long."
+#~ msgstr ""
+
+#~ msgid "Number must be at least %(min)s."
+#~ msgstr ""
+
+#~ msgid "Number must be at most %(max)s."
+#~ msgstr ""
+
+#~ msgid "Number must be between %(min)s and %(max)s."
+#~ msgstr ""
+
+#~ msgid "This field is required."
+#~ msgstr ""
+
+#~ msgid "Invalid input."
+#~ msgstr ""
+
+#~ msgid "Invalid email address."
+#~ msgstr ""
+
+#~ msgid "Invalid IP address."
+#~ msgstr ""
+
+#~ msgid "Invalid Mac address."
+#~ msgstr ""
+
+#~ msgid "Invalid URL."
+#~ msgstr ""
+
+#~ msgid "Invalid UUID."
+#~ msgstr ""
+
+#~ msgid "Invalid value, must be one of: %(values)s."
+#~ msgstr ""
+
+#~ msgid "Invalid value, can't be any of: %(values)s."
+#~ msgstr ""
+
+#~ msgid "Invalid CSRF Token"
+#~ msgstr ""
+
+#~ msgid "CSRF token missing"
+#~ msgstr ""
+
+#~ msgid "CSRF failed"
+#~ msgstr ""
+
+#~ msgid "CSRF token expired"
+#~ msgstr ""
+
+#~ msgid "Not a valid list"
+#~ msgstr ""
+
+#~ msgid "Not a valid integer list"
+#~ msgstr ""
+
+#~ msgid "Please input a date/time value"
+#~ msgstr ""
+
+#~ msgid "Invalid date/time input"
+#~ msgstr ""
+
+#~ msgid "Invalid choice(s): one or more data inputs could not be coerced"
+#~ msgstr ""
+
+#~ msgid "'%(value)s' is not a valid choice for this field"
+#~ msgstr ""
+
+#~ msgid "Not a valid integer value"
+#~ msgstr ""
+
+#~ msgid "Not a valid decimal value"
+#~ msgstr ""
+
+#~ msgid "Not a valid float value"
+#~ msgstr ""
+
+#~ msgid "Not a valid datetime value"
+#~ msgstr ""
+
+#~ msgid "Not a valid date value"
+#~ msgstr ""
+
+#~ msgid "Not a valid time value"
+#~ msgstr ""
+
